@@ -1,10 +1,6 @@
 # 📚 StudySync - Responsive Educational Landing Page
 
 <p align="center">
-  <img src="preview.png" alt="StudySync Landing Page Preview" width="100%">
-</p>
-
-<p align="center">
   A modern, responsive, and visually appealing educational landing page built using pure HTML5 and CSS3.
 </p>
 
@@ -111,7 +107,7 @@ While building this project, I gained hands-on experience with:
 
 ## 🌐 Live Demo
 
-> **Coming Soon**
+> **https://study-sync-website-frontend-clone-90oukd3fy-hackhorizon.vercel.app**
 
 ---
 
