@@ -44,7 +44,7 @@ The project demonstrates the use of modern HTML and CSS techniques to create a c
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview.png" alt="Project Preview">
+  <img src="./images/preview.png" alt="Project Preview">
 </p>
 
 ---
@@ -138,7 +138,7 @@ Open `index.html` in your browser.
 **Ayan Kundu**
 
 - GitHub: https://github.com/ayankunduixb-pixel
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/ayan-kundu-389737397
 
 ---
 
